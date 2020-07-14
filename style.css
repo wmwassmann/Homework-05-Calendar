@@ -2,8 +2,13 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
-  } 
-
+  }
+  
+  .cont {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+  }
   .container {
     display: inline-flex;
     flex-direction: row;
